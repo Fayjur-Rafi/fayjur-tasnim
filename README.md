@@ -1,4 +1,4 @@
 # fayjur-tasnim
 This is my first Git Repository.
 <br>
-Author - Fayjur Rafi
+Author - Fayjur Rafi(Tasnim Hossan Tanha)
